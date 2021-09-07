@@ -1,3 +1,2 @@
 # final project
- 
- https://albertyen67.github.io/final/
+ <a href="home.html">Home</a>
